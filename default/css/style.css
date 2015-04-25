@@ -650,6 +650,7 @@ a.button-one {
 }
 .about-section {
   padding: 60px 0;
+  
 }
 .about-section img {
   width: 100%;
@@ -736,7 +737,7 @@ a.button-one {
 .testimonial-section {
   padding: 60px 0;
   position: relative;
-  background: url('../upload/banners/1.jpg') fixed;
+  background: url('../images/testimonial.jpg') fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -900,8 +901,10 @@ a.button-one {
 }
 .clients-section ul.client-list li {
   float: left;
-  width: 25%;
+  width: 22%;
   list-style: none;
+  margin-left: 3%;
+  
 }
 .clients-section ul.client-list li a {
   display: inline-block;
@@ -911,7 +914,7 @@ a.button-one {
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   width: 100%;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .clients-section ul.client-list li a img {
   width: 100%;
@@ -920,7 +923,7 @@ a.button-one {
   opacity: 1;
 }
 .clients-section blockquote {
-  margin-top: 60px;
+  margin-top: 100px;
   border-left: 1px solid #222222;
   padding: 20px 0;
   padding-left: 30px;
