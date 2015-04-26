@@ -1212,7 +1212,7 @@ a.button-one {
   margin-top: 150px;
   padding: 60px 0;
   position: relative;
-  background: url('../upload/banners/ban.jpg') center;
+  background: url('../images/banner1.jpg') center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1531,7 +1531,7 @@ a.button-one {
 }
 .blog-section .blog-box .blog-post img,
 .blog-section .blog-box .blog-post iframe {
-  width: 100%;
+  width: 75%;
   margin-bottom: 30px;
 }
 .blog-section .blog-box .blog-post iframe {
