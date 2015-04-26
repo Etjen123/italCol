@@ -1417,7 +1417,12 @@ a.button-one {
   margin-bottom: 40px;
 }
 .services-page-section .services-wrapp .services-post img {
-  width: 100%;
+  width: 25%;
+  margin-bottom: 25px;
+}
+
+.services-page-section .services-wrapp .services-post .photo img {
+  width: 75%;
   margin-bottom: 25px;
 }
 .services-page-section .services-wrapp .services-post h2 {
